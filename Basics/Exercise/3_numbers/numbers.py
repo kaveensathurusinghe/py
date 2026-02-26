@@ -1,6 +1,6 @@
-lenght = 92
+length = 92
 width = 48.8
-area = lenght * width
+area = length * width
 print(round(area,2))
 
 packets = 9
